@@ -1,0 +1,17 @@
+{
+   "name":"E-BANK.app",
+   "version": "1.0.0",
+   "description":"memory box app",
+   "main":"jquery.js",
+   "script":{
+       "test":"echo \"Error:no test specified\" && exit 1"
+   },
+   "keyword":[],
+   "author":"sphamandla slingo mthombeni <sphamthombeni2@gmail.com>(http://sphamthombeni.com)",
+   "license":"GNU",
+   "dependencies":{
+       "body-parser":"4.4.1",
+       "express":"6.10.0",
+       "python":""
+   }
+}
